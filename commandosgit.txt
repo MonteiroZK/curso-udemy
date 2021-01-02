@@ -40,3 +40,5 @@ git checkout master// pega o projeto do commit que estava sendo desenvolvido
 
 
 //--------------------------------------------------------
+
+teste commit
