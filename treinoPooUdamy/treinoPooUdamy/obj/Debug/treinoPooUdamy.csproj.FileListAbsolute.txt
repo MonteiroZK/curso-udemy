@@ -1,0 +1,7 @@
+C:\Users\thiag\source\repos\treinoPooUdamy\treinoPooUdamy\bin\Debug\treinoPooUdamy.exe.config
+C:\Users\thiag\source\repos\treinoPooUdamy\treinoPooUdamy\bin\Debug\treinoPooUdamy.exe
+C:\Users\thiag\source\repos\treinoPooUdamy\treinoPooUdamy\bin\Debug\treinoPooUdamy.pdb
+C:\Users\thiag\source\repos\treinoPooUdamy\treinoPooUdamy\obj\Debug\treinoPooUdamy.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\treinoPooUdamy\treinoPooUdamy\obj\Debug\treinoPooUdamy.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\treinoPooUdamy\treinoPooUdamy\obj\Debug\treinoPooUdamy.exe
+C:\Users\thiag\source\repos\treinoPooUdamy\treinoPooUdamy\obj\Debug\treinoPooUdamy.pdb
