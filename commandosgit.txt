@@ -1,3 +1,42 @@
 git config --global user.name "Monteiro"
 
 git config --global user.email "thiagocabelin1234@gmail.com"
+
+//--------------------------Sobre o repositorio------------------------------
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/MonteiroZK/curso-udemy.git //setar url
+git push -u origin main    //salvar
+//alterar url            
+git remote set-url origin https://github.com/MonteiroZK/curso-modify.git
+
+//----------------------adicionar repositorios----------------------------------
+
+git add .              // significa que todos os arquivos serao selecionados para fazer o commit
+
+git commite -m "decriçao"     // adiciona a descriçao do projeto
+
+git log                      // pega todas as descrição ja criadas 
+git log  --oneline                    // pega todas as descrição ja criadas  com id
+
+//-------------------------commit-------------------------------
+
+//volta para o projeto para o ultimo commit
+git clean -df
+
+git checkout -- .
+
+//remove commit
+git reset --soft HEAD~1  // remove ultimo commit
+
+git reset --hard HEAD~1  // remove ultimo e as suas alteração commit("Perigo")
+
+//get commit que eu quero ver
+
+git checkout id => id do log oneline // para pega o projeto do commit
+git checkout master// pega o projeto do commit que estava sendo desenvolvido
+
+
+//--------------------------------------------------------
